@@ -6,6 +6,10 @@ import ComParametro from './components/basics/parameters'
 import Fragment from './components/basics/fragments'
 import Card from './components/layout/card'
 import Sorteio from './components/basics/aleatorio'
+import Family from './components/basics/family'
+import MemberFamily from './components/basics/memberFamily'
+import ListaAlunos from './components/repeat/listStudents'
+import TabelaProdutos from './components/repeat/tableProducts'
 
 
 export default function App(props) {
@@ -14,21 +18,38 @@ export default function App(props) {
             <h1>FUNDAMENTOS REACT</h1>
 
             <div className="Cards">
-                <Card titulo="SORTEIO NÚMERO:" color="#1baf34">
+
+                <Card titulo="#7 - TABELA PRODUTOS:" color="#1f099c">
+                    <TabelaProdutos></TabelaProdutos>
+                </Card>
+
+                <Card titulo="#6 - LISTA DE ALUNOS (REPETIÇÃO):" color="#0fada0">
+                    <ListaAlunos></ListaAlunos>
+                </Card>
+
+                <Card titulo="#5 - COMPONENTE COM FILHOS:" color="#d39309">
+                    <Family sobrenome="Vargas">
+                        <MemberFamily nome="Cesar" />
+                        <MemberFamily nome="Jonas" />
+                        <MemberFamily nome="Gabriel" />
+                    </Family>
+                </Card>
+
+                <Card titulo="#4 - SORTEIO NÚMERO:" color="#1baf34">
                     <Sorteio />
                 </Card>
 
-                <Card titulo="FRAGMENTO:" color="#3c7cb8">
+                <Card titulo="#3 - FRAGMENTO:" color="#3c7cb8">
                     <Fragment />
                 </Card>
 
-                <Card titulo="COM PARÂMETRO:" color="#5e187a">
+                <Card titulo="#2 - COM PARÂMETRO:" color="#5e187a">
                     <ComParametro
                         titulo="NOTA ALUNO:"
                         aluno="CESAR" nota={9.5} />
                 </Card>
 
-                <Card titulo="FRAGMENTO:" color="#e61616">
+                <Card titulo="#1 - FRAGMENTO:" color="#e61616">
                     <FirstFunction></FirstFunction>
                 </Card>
             </div>
