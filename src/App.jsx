@@ -10,7 +10,10 @@ import Family from './components/basics/family'
 import MemberFamily from './components/basics/memberFamily'
 import ListaAlunos from './components/repeat/listStudents'
 import TabelaProdutos from './components/repeat/tableProducts'
-
+import ParOuImpar from './components/conditions/parOuImpar'
+import InfoUsuario from './components/conditions/InfoUser'
+import Pai from "./components/communication/diretaPai"
+import IndiretaPai from "./components/communication/indiretaPai"
 
 export default function App(props) {
     return (
@@ -18,6 +21,22 @@ export default function App(props) {
             <h1>FUNDAMENTOS REACT</h1>
 
             <div className="Cards">
+
+                <Card titulo="#10 - Comunicação Indireta" color="#b85115ee">
+                    <IndiretaPai></IndiretaPai>
+                </Card>
+
+                <Card titulo="#9 - Comunicação Direta:" color="#573f14ef">
+                    <Pai></Pai>
+                </Card>
+
+                <Card titulo="#8 - Condicional:" color="#810f4e">
+                    <ParOuImpar numero={20}></ParOuImpar>
+                    <InfoUsuario usuario={{nome: 'Cesar'}}/>
+                    
+                    {/*<InfoUsuario usuario={{}}/>
+                    <InfoUsuario/>*/}
+                </Card>
 
                 <Card titulo="#7 - TABELA PRODUTOS:" color="#1f099c">
                     <TabelaProdutos></TabelaProdutos>
