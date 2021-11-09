@@ -14,6 +14,8 @@ import ParOuImpar from './components/conditions/parOuImpar'
 import InfoUsuario from './components/conditions/InfoUser'
 import Pai from "./components/communication/diretaPai"
 import IndiretaPai from "./components/communication/indiretaPai"
+import Form from './components/forms/input'
+import Contador from './components/contador/contador'
 
 export default function App(props) {
     return (
@@ -21,6 +23,14 @@ export default function App(props) {
             <h1>FUNDAMENTOS REACT</h1>
 
             <div className="Cards">
+
+                <Card titulo="#12 - Contador" color="#414440eb">
+                    <Contador numeroInicial={10}></Contador>
+                </Card>
+
+                <Card titulo="#11 - Componente controlado (Input)" color="#36b815ed">
+                    <Form></Form>
+                </Card>
 
                 <Card titulo="#10 - Comunicação Indireta" color="#b85115ee">
                     <IndiretaPai></IndiretaPai>
