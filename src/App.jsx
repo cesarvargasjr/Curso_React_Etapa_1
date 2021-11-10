@@ -16,6 +16,7 @@ import Pai from "./components/communication/diretaPai"
 import IndiretaPai from "./components/communication/indiretaPai"
 import Form from './components/forms/input'
 import Contador from './components/contador/contador'
+import Mega from './components/megaSena/mega'
 
 export default function App(props) {
     return (
@@ -23,6 +24,10 @@ export default function App(props) {
             <h1>FUNDAMENTOS REACT</h1>
 
             <div className="Cards">
+
+                <Card titulo="#13 - Mega-Sena" color="#2757bdeb">
+                    <Mega qtde={6}></Mega>
+                </Card>
 
                 <Card titulo="#12 - Contador" color="#414440eb">
                     <Contador numeroInicial={10}></Contador>
