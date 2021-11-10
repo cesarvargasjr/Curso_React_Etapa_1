@@ -28,11 +28,11 @@ o banco de dados e também a integração e uso tanto do Tailwind quanto do Type
 Curso ministrado por: Leonardo Moura Leitao (Arquiteto de Software)
 
 
-    >>>>>>> RESUMO DO QUE FOI PRATICADO: <<<<<<<<
+RESUMO OBJETIVO DO CONTEÚDO:
 
-Configurar uma aplicação com Webpack
-Criar componentes em React
-Integrar o Redux em uma aplicação React
-Desenvolver uma aplicação do zero com React/Redux
-Desenvolver uma aplicação full-stack em Javascript
-Aplicar boas práticas de desenvolvimento
+Configurar uma aplicação com Webpack; 
+Criar componentes em React; 
+Integrar o Redux em uma aplicação React; 
+Desenvolver uma aplicação do zero com React/Redux; 
+Desenvolver uma aplicação full-stack em Javascript; 
+Aplicar boas práticas de desenvolvimento; 
