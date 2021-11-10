@@ -1,9 +1,9 @@
-#                          >>>>>>>>>>     ETAPA 1 DO CURSO     <<<<<<<<<<<
+# ETAPA 1 DO CURSO
 
-##>>>>>>>>>> NOME DO CURSO: Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!   <<<<<<<<<<<
+## NOME DO CURSO: React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!
 
-##                >>>>>>>>>>   ABAIXO A DESCRIÇÃO DO CONTEÚDO DO CURSO:   <<<<<<<<<<
 
+ABAIXO A DESCRIÇÃO DO CONTEÚDO:
 
 O principal objetivo de um desenvolvedor de software é sem dúvida construir aplicações, 
 então que tal construir duas aplicação do absoluto zero usando o principal framework web do mercado? 
