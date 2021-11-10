@@ -1,4 +1,4 @@
-                        >>>>>>>>>>     CURSO EM ANDAMENTO     <<<<<<<<<<<
+                        >>>>>>>>>>     ETAPA 1 DO CURSO     <<<<<<<<<<<
 
 >>>>>>>>>> NOME DO CURSO: Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!   <<<<<<<<<<<
 
