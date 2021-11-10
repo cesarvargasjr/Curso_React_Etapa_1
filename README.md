@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+#                          >>>>>>>>>>     ETAPA 1 DO CURSO     <<<<<<<<<<<
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##>>>>>>>>>> NOME DO CURSO: Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!   <<<<<<<<<<<
 
-## Available Scripts
+##                >>>>>>>>>>   ABAIXO A DESCRIÇÃO DO CONTEÚDO DO CURSO:   <<<<<<<<<<
 
-In the project directory, you can run:
 
-### `yarn start`
+O principal objetivo de um desenvolvedor de software é sem dúvida construir aplicações, 
+então que tal construir duas aplicação do absoluto zero usando o principal framework web do mercado? 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+A proposta do curso de React é te guiar passo a passo na construções de duas aplicações completas, 
+mas se você ainda está iniciando no mundo do React, não tem problema porque antes de entrarmos no 
+desenvolvimento das aplicações, serão apresentados vários exercícios para ensinar os fundamentos de Webpack, 
+React, Redux e todo o ecossistema envolvido no processo. Inclusive tecnologias de backend, como Node, Express e MongoDB.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Falaremos desde o básico, mostrando os primeiros passos, até assuntos complexos como geração de formulários dinâmicos e middlewares.
 
-### `yarn test`
+Curso 100% prático, mas sempre deixando muito claro os conceitos essenciais para que o aluno aprenda os princípios associados à prática.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Neste curso também você vai aprender os principais fundamentos e conceitos do NextJS. O NextJS nada mais é do que um framework 
+para React, a principal biblioteca para desenvolvimento web. As principais funcionalidades do Next são a renderização estática 
+e pelo lado do servidor (SSR), possuir suporte para o TypeScript e um serviço próprio de tratamento de rotas. Teremos uma aplicação 
+para Criação, Leitura, Edição e Remoção de dados, o famoso CRUD (Create, Read, Update, Delete) com NextJS. Utilizando o Firebase e 
+Firestore como banco de dados, utilizando também o TailwindCSS para criar o visual do projeto e integrando com TypeScript. Tudo isso 
+será mostrado e explicado durante a seção, desde a criação do projeto, a instalação das dependências, configuração e integração com 
+o banco de dados e também a integração e uso tanto do Tailwind quanto do TypeScript.
 
-### `yarn build`
+Curso ministrado por: Leonardo Moura Leitao (Arquiteto de Software)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    >>>>>>> RESUMO DO QUE FOI PRATICADO: <<<<<<<<
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Configurar uma aplicação com Webpack
+Criar componentes em React
+Integrar o Redux em uma aplicação React
+Desenvolver uma aplicação do zero com React/Redux
+Desenvolver uma aplicação full-stack em Javascript
+Aplicar boas práticas de desenvolvimento
