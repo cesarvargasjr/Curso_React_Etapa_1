@@ -36,6 +36,3 @@ Integrar o Redux em uma aplicação React;
 Desenvolver uma aplicação do zero com React/Redux; 
 Desenvolver uma aplicação full-stack em Javascript; 
 Aplicar boas práticas de desenvolvimento; 
-
-![Calculadora](https://user-images.githubusercontent.com/72532360/141214211-19207b4d-576d-4876-aae0-7e2637a23737.JPG)
-
