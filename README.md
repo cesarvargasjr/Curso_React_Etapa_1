@@ -1,4 +1,4 @@
-## MÓDULO 1 DO CURSO - FUNDAMENTOS DO REACT
+## MÓDULO 1 - FUNDAMENTOS DO REACT
 
 ### NOME DO CURSO: React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!
 
