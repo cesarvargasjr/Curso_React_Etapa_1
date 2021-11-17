@@ -1,9 +1,9 @@
-## ETAPA 1 DO CURSO - FUNDAMENTOS DO REACT
+## MÓDULO 1 DO CURSO - FUNDAMENTOS DO REACT
 
 ### NOME DO CURSO: React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!
 
 
-ABAIXO A DESCRIÇÃO DO CONTEÚDO:
+ABAIXO A DESCRIÇÃO DO CONTEÚDO GERAL DO CURSO:
 
 O principal objetivo de um desenvolvedor de software é sem dúvida construir aplicações, 
 então que tal construir duas aplicação do absoluto zero usando o principal framework web do mercado? 
@@ -38,6 +38,6 @@ Desenvolver uma aplicação full-stack em Javascript;
 Aplicar boas práticas de desenvolvimento; 
 
 
-## A imagem abaixo exibe cards que demonstram os conceitos praticados:
+## A imagem abaixo exibe cards que demonstram os conceitos praticados (Criação de projetos; Conhecendo JSX; Componentes com estado ou controlado; React Fragment; Repetições; Comunicações direta e indiretas; Desafios práticos):
 
 ![Fundamentos React](https://user-images.githubusercontent.com/72532360/141410109-3c8ac5b8-7b23-4d61-9027-2d2903d3fabe.JPG)
