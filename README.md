@@ -1,4 +1,4 @@
-## MÓDULO 1 - FUNDAMENTOS DO REACT
+## MÓDULO 1: FUNDAMENTOS DO REACT
 
 ### NOME DO CURSO: React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!
 
@@ -30,12 +30,12 @@ Curso ministrado por: Leonardo Moura Leitao (Arquiteto de Software)
 
 RESUMO OBJETIVO DO CONTEÚDO:
 
-Configurar uma aplicação com Webpack; 
-Criar componentes em React; 
-Integrar o Redux em uma aplicação React; 
-Desenvolver uma aplicação do zero com React/Redux; 
-Desenvolver uma aplicação full-stack em Javascript; 
-Aplicar boas práticas de desenvolvimento; 
+- Configurar uma aplicação com Webpack; 
+- Criar componentes em React; 
+- Integrar o Redux em uma aplicação React; 
+- Desenvolver uma aplicação do zero com React/Redux; 
+- Desenvolver uma aplicação full-stack em Javascript; 
+- Aplicar boas práticas de desenvolvimento; 
 
 
 ## A imagem abaixo exibe cards que demonstram os conceitos praticados (Criação de projetos; Conhecendo JSX; Componentes com estado ou controlado; React Fragment; Repetições; Comunicações direta e indiretas; Desafios práticos):
