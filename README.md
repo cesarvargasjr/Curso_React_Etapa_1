@@ -38,6 +38,7 @@ RESUMO OBJETIVO DO CONTEÚDO:
 - Aplicar boas práticas de desenvolvimento
 
 
+
 ### A imagem abaixo exibe cards que demonstram os conceitos praticados: 
 
 - Criação de projetos
