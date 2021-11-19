@@ -38,6 +38,13 @@ RESUMO OBJETIVO DO CONTEÚDO:
 - Aplicar boas práticas de desenvolvimento
 
 
-## A imagem abaixo exibe cards que demonstram os conceitos praticados (Criação de projetos; Conhecendo JSX; Componentes com estado ou controlado; React Fragment; Repetições; Comunicações direta e indiretas; Desafios práticos):
+### A imagem abaixo exibe cards que demonstram os conceitos praticados: 
+
+- Criação de projetos
+- Conhecendo JSX
+- Componentes com estado ou controlado
+- React Fragment; Repetições
+- Comunicações direta e indiretas
+- Desafios práticos
 
 ![Fundamentos React](https://user-images.githubusercontent.com/72532360/141410109-3c8ac5b8-7b23-4d61-9027-2d2903d3fabe.JPG)
