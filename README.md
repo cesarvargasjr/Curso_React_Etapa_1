@@ -28,7 +28,7 @@ o banco de dados e também a integração e uso tanto do Tailwind quanto do Type
 Curso ministrado por: Leonardo Moura Leitao (Arquiteto de Software)
 
 
-RESUMO OBJETIVO DO CONTEÚDO:
+### Resumo de todo o curso:
 
 - Configurar uma aplicação com Webpack
 - Criar componentes em React
@@ -39,7 +39,7 @@ RESUMO OBJETIVO DO CONTEÚDO:
 
 
 
-### A imagem abaixo exibe cards que demonstram os conceitos praticados: 
+### Conceitos estudados neste módulo: 
 
 - Criação de projetos
 - Conhecendo JSX
