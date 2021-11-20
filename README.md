@@ -28,7 +28,7 @@ o banco de dados e também a integração e uso tanto do Tailwind quanto do Type
 Curso ministrado por: Leonardo Moura Leitao (Arquiteto de Software)
 
 
-### Resumo de todo o curso:
+### Conteúdo total do curso:
 
 - Configurar uma aplicação com Webpack
 - Criar componentes em React
